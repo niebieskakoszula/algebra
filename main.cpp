@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//zmiana probna
+
 float kolo_wsk(float tab_tem[3][3]){
     float wynik=0, q;
     int x,y;
